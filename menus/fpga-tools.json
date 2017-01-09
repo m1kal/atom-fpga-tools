@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Instantiate module",
+        "command": "fpga-tools:instantiate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "fpga-tools",
+          "submenu": [
+            {
+              "label": "Instantiate module",
+              "command": "fpga-tools:instantiate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

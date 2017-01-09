@@ -1,0 +1,18 @@
+{
+  "name": "fpga-tools",
+  "main": "./lib/fpga-tools",
+  "version": "0.0.0",
+  "description": "A set of commands to help develop FPGA code",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "fpga-tools:instantiate"
+  },
+  "repository": "https://github.com/m1kal/atom-fpga-tools",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
