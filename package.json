@@ -1,7 +1,7 @@
 {
   "name": "fpga-tools",
   "main": "./lib/fpga-tools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A set of commands to help develop FPGA code",
   "keywords": [],
   "activationCommands": {
